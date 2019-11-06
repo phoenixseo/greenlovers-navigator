@@ -53,7 +53,8 @@
         "drupal/address": "^1",
         "drupal/search_api": "^1",
         "drupal/imageapi_optimize": "^2",
-        "drupal/imageapi_optimize_resmushit": "^1"
+        "drupal/imageapi_optimize_resmushit": "^1",
+        "drupal/geolocation": "^3"
     },
     "conflict": {
         "drupal/drupal": "*"
