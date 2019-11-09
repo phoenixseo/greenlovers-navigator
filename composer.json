@@ -38,8 +38,6 @@
         "drupal/fontyourface": "^3",
         "drupal/image_widget_crop": "^2",
         "drupal/inline_entity_form": "^1",
-        "drupal/juicerio": "^1",
-        "drupal/mailchimp": "^1",
         "drupal/metatag": "^1",
         "drupal/schema_metatag": "^1",
         "drupal/paragraphs": "^1",
@@ -54,7 +52,9 @@
         "drupal/search_api": "^1",
         "drupal/imageapi_optimize": "^2",
         "drupal/imageapi_optimize_resmushit": "^1",
-        "drupal/geolocation": "^3"
+        "drupal/geolocation": "^3",
+        "drupal/pathauto": "^1",
+        "drupal/redirect": "^1"
     },
     "conflict": {
         "drupal/drupal": "*"
