@@ -1,6 +1,6 @@
 {
     "name": "phoenixseo/greenlovers-navigator",
-    "description": "Project template for Drupal 8 projects with composer",
+    "description": "Project for greenlovers-catering.de (greenlovers.de).",
     "type": "project",
     "license": "GPL-2.0-or-later",
     "authors": [
@@ -42,11 +42,10 @@
         "drupal/schema_metatag": "^1",
         "drupal/paragraphs": "^1",
         "drupal/superfish": "^1",
-        "drupal/token": "^1",
+        "drupal/token": "1.x-dev",
         "drupal/tvi": "^1",
         "drupal/video_embed_field": "^2",
         "drupal/views_infinite_scroll": "^1",
-        "drupal/webform": "^5",
         "drupal/gutenberg": "^1",
         "drupal/address": "^1",
         "drupal/search_api": "^1",
@@ -54,7 +53,11 @@
         "drupal/imageapi_optimize_resmushit": "^1",
         "drupal/geolocation": "^3",
         "drupal/pathauto": "^1",
-        "drupal/redirect": "^1"
+        "drupal/redirect": "^1",
+        "drupal/bootstrap_layouts": "^5",
+        "drupal/link_attributes": "^1",
+        "drupal/simple_sitemap": "^3",
+        "drupal/svg_image": "^1"
     },
     "conflict": {
         "drupal/drupal": "*"
